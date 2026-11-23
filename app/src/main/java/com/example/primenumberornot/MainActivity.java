@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        int number = 9;
+        int number = 5;
 
         for( int x=2; x<number; x++){
 
